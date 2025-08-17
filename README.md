@@ -19,7 +19,7 @@ cd sms-bomber
 
 ۴. اجرا:
 ```bash
-python sms-bomber.py
+python sms.py
 ```
 
 لذت ببرید و حتما در چنل تلگرام ما جوین بدید 
